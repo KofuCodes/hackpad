@@ -7,7 +7,7 @@ created_at: 06/12/2025
 
 Total Time: 6 Hours
 
-06/12/2025< br / >
+06/12/2025<br/>
 6 hours
 Decided my theme to do for the hackpad, a hackpad to play tetris.
 followed the hackpad tutorial while changing and adding some stuff of my own such as the OLED display
