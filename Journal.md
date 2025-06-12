@@ -15,3 +15,4 @@ completed the schematic and pcb design
 
 
 ![image](https://github.com/user-attachments/assets/f5a551ed-42e2-4dfa-808c-06fb309a74c2)
+![image](https://github.com/user-attachments/assets/fcecf674-0fcf-4547-86d9-4f4840f6b4c2)
