@@ -1,8 +1,9 @@
-
-**Title: TetriPad
-Author: Ethan Tran
-Description: A pocket sized tetris game
-Created_at: 06/12/2025**
+---
+title: TetriPad
+author: Ethan Tran
+description: A pocket sized tetris game
+created_at: 06/12/2025
+---
 
 Total Time: 6 Hours
 
