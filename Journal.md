@@ -8,11 +8,11 @@ created_at: 06/12/2025
 Total Time: 6 Hours
 
 06/12/2025<br/>
-6 hours
-Decided my theme to do for the hackpad, a hackpad to play tetris.
-followed the hackpad tutorial while changing and adding some stuff of my own such as the OLED display
-Figured out how to create an OLED display symbol and symbol library
-completed the schematic and pcb design
+6 hours<br/>
+-Decided my theme to do for the hackpad, a hackpad to play tetris.<br/>
+-Followed the hackpad tutorial while changing and adding some stuff of my own such as the OLED display<br/>
+-Figured out how to create an OLED display symbol and symbol library<br/>
+-Completed the schematic and pcb design<br/>
 
 
 ![image](https://github.com/user-attachments/assets/f5a551ed-42e2-4dfa-808c-06fb309a74c2)
