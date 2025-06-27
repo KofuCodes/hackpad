@@ -4,8 +4,8 @@ This is a project I made for Highway called the Tetripad a custom hackpad built 
 # Schematic and PCB
 ![image](https://github.com/user-attachments/assets/11914a48-aecc-478d-ae9e-bdf5be7c0ea4)
 ![image](https://github.com/user-attachments/assets/d9e34494-be00-4e20-9038-f1e6d2578f69)
-Imagine the case with tetris colours...
 ![image](https://github.com/user-attachments/assets/2a2e02fc-1454-4b7f-bb15-c595dfa22f45)
+Imagine the case with tetris colours...
 ![image](https://github.com/user-attachments/assets/7a95bd35-1621-4bdf-88da-5bb299a1e70a)
 ![image](https://github.com/user-attachments/assets/585b16cd-6e2d-4864-aee5-0d36da29fb6d)
 ![image](https://github.com/user-attachments/assets/fb832cf8-a0c0-4121-9918-b93dab002c34)
