@@ -72,9 +72,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerbers/")
 		)
 	)
 	(net 0 "")
@@ -3338,13 +3338,13 @@
 		)
 	)
 	(gr_text "XIAO HERE"
-		(at 115.07 60.99 0)
+		(at 116.84 60.96 0)
 		(layer "F.Cu")
 		(uuid "75265463-7665-4987-bda2-97ef4976c185")
 		(effects
 			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
+				(size 1.5 1)
+				(thickness 0.25)
 				(bold yes)
 			)
 			(justify left bottom)
