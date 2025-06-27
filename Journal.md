@@ -19,12 +19,7 @@ Total Time: 6 Hours
 ![image](https://github.com/user-attachments/assets/fcecf674-0fcf-4547-86d9-4f4840f6b4c2)
 
 
----
-title: TetriPad
-author: Ethan Tran
-description: A pocket sized tetris game
-created_at: 06/12/2025
----
+Day 2
 
 Total Time: 10 Hours
 
